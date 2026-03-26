@@ -1,6 +1,18 @@
 # Giants from Dust
 
-Build modern AI models from the ground up — no magic, no hand-waving. Understand exactly what happens when a neural network trains, how attention works, and how GPT-style models are constructed.
+Learn modern AI models step by step, from basics to GPT.  
+This repo is beginner-friendly and explains each concept in a simple way.
+
+## Excalidraw Notes (Start Here)
+
+You can view the visual notes in Excalidraw:
+
+1. Download `giant-from-dust.excalidraw.excalidraw`
+2. Open [Excalidraw](https://excalidraw.com/)
+3. Click **Import** and select the file
+4. You will get the full notes/diagram
+
+Also included: `giant-from-dust.excalidraw.md` (markdown export of the same notes).
 
 ## Learning Path
 
